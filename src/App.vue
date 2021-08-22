@@ -39,18 +39,21 @@
 
     <v-main>
       <Home/>
+      <About/>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import Home from './components/Home';
+import Home from './components/siteContent/Home';
+import About from './components/siteContent/About'
 
 export default {
   name: 'App',
 
   components: {
     Home,
+    About,
   },
 
   data: () => ({
@@ -58,3 +61,9 @@ export default {
   }),
 };
 </script>
+
+<style scoped>
+* {
+  max-width: 100%;
+}
+</style>
