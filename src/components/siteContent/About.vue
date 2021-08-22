@@ -1,5 +1,5 @@
 <template>
-    <v-container class="base-scheme">
+    <v-container>
         <h1>Continue</h1>
     </v-container>
 </template>
