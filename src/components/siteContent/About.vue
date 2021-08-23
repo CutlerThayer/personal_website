@@ -14,7 +14,6 @@ export default defineComponent({
 
 <style scoped>
 * {
-    background-color: #f8f9fc;
     color: blue;
 }
 </style>
