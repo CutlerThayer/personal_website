@@ -1,6 +1,6 @@
 <template>
     <v-container>
-        <h1>Continue</h1>
+        <v-toolbar fixed/>
     </v-container>
 </template>
 
@@ -14,7 +14,7 @@ export default defineComponent({
 
 <style scoped>
 * {
-    color: blue;
-    background-color: primary;
+    max-width: 100%;
 }
+
 </style>
