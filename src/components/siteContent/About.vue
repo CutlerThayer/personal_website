@@ -18,6 +18,7 @@ export default defineComponent({
 
 <style scoped>
 * {
-    color: black;
+    color: blue;
+    background-color: primary;
 }
 </style>

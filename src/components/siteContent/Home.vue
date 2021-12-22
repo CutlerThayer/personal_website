@@ -26,10 +26,10 @@ export default defineComponent({
     font-family: Montserrat,sans-serif;
     line-height: 90px;
     justify-content: left;
-    max-width: 60%;
+    max-width: 70%;
+    margin-left: 70px;
 }
-.accent {
+.pop-color {
     color: green;
-    background-color: #f8f9fc;
 }
 </style>
