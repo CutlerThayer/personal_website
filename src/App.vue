@@ -21,7 +21,6 @@
 </template>
 
 <script>
-import Menu from './components/siteContent/Menu';
 import Home from './components/siteContent/Home';
 import About from './components/siteContent/About';
 
@@ -29,7 +28,6 @@ export default {
   name: 'App',
 
   components: {
-    Menu,
     Home,
     About,
   },
