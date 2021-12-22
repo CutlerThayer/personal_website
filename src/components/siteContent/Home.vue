@@ -1,7 +1,7 @@
 <template>
     <v-container>
         <h1
-            class=" my-12 heading-title"  
+            class=" my-12 heading-title" 
         >
             Cutler Thayer! Developer, Innovator, Engineer.
         </h1>
