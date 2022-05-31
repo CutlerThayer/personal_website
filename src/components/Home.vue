@@ -3,7 +3,7 @@
         <h1
             class=" my-12 heading-title" 
         >
-            Cutler Thayer! Developer, Innovator, Engineer.
+            <div class="pop-color">Cutler Thayer!</div> Developer, Innovator, Engineer.
         </h1>
     </v-container>
 </template>

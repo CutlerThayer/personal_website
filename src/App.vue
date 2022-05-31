@@ -2,13 +2,15 @@
   <v-app>
     <v-app-bar
       app
-      color="primary"
+      color="bg_color"
+      elevation=0
     >
       <v-app-bar-title
         class="sticky"
       >
         Cutler Thayer
       </v-app-bar-title>
+
       <v-spacer></v-spacer>
 
     </v-app-bar>
@@ -21,8 +23,8 @@
 </template>
 
 <script>
-import Home from './components/siteContent/Home';
-import About from './components/siteContent/About';
+import Home from './components/Home';
+import About from './components/About';
 
 export default {
   name: 'App',

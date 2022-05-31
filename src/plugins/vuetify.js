@@ -8,7 +8,9 @@ export default new Vuetify({
         themes: {
             light: {
                 primary: 'ffffff',
-                secondary: '#000000'
+                secondary: '#000000',
+                bg_color: '#f8f9fc',
+                pop_color: 'green'
             }
         }
     }
